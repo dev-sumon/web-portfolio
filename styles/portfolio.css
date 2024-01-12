@@ -107,4 +107,13 @@ main{
 }
 .about-info{
     text-align: center;
+    color: #474747;
+}
+.info-desc{
+    font-weight: bold;
+    
+}
+#what-i-do-desc{
+    padding: 30px 150px;
+    text-align: center;
 }
